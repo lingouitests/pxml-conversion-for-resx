@@ -9,6 +9,6 @@
     
     <!-- Simple string resource -->
     <data name="WelcomeMessage" xml:space="preserve">
-        <value>Welcome to our application!</value>
+        <value>Welcome to our cool application!</value>
     </data>
 </root>
